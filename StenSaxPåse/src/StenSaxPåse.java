@@ -1,5 +1,5 @@
 package src;
-
+hejj
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.JButton;
@@ -72,7 +72,7 @@ public class StenSaxPåse implements ActionListener {
                 || (userChoice.equals("Scissors") && computerChoice.equals("Paper"))) {
             return "You win!";
         } else {
-            return "Datorn vann!";
+            return "Computer wins!";
         }}}
 
     

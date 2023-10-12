@@ -1,16 +1,6 @@
-package src;
+public class GissaNumretSpel {
+    public static void main(String[] args) {
+        GissaNumret.playGame();
 
-public class Main { public static void main(String[] args) {
-StenSaxPåse spel = new StenSaxPåse();
-Sten
-
-
-
-
-
-
-
-    
 }
-    
 }
